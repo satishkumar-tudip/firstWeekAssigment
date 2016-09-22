@@ -6,4 +6,5 @@
 # This is conflict after commit.
 # CSS is first Assigment 
 # Stash example
-#Conflict at local repository.
+# Conflict at local repository.
+# this is second git session
