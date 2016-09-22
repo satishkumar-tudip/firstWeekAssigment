@@ -5,3 +5,4 @@
 # HTML is first Assigment.
 # This is conflict after commit.
 # CSS is first Assigment 
+# Stash example
