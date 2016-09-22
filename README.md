@@ -6,3 +6,4 @@
 # This is conflict after commit.
 # CSS is first Assigment 
 # Stash example
+#Conflict at local repository.
