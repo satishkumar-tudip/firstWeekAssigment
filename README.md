@@ -8,3 +8,9 @@
 # Stash example
 #this is second git session
 #hello
+# Conflict at local repository.
+# this is second git session
+# changes by abhijit
+# some more changes by abhijit
+# Branch Example.
+
